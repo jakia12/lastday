@@ -6802,3 +6802,11 @@ img.kick {
     right: -56%;
 }
 
+@media screen and (max-width:768px){
+    img.kick {
+        position: absolute;
+        top: -28%;
+        right: -41%;
+    }
+}
+
