@@ -34,7 +34,7 @@ body {
 }
 
 .darker {
-    background: #001E50;
+    background:#001E50 ;
     color: #fff;
 }
 
@@ -1302,15 +1302,15 @@ nav {
     margin-bottom: 30px;
 }
 
+
 .special-head {
     color: #fff;
-    background: #001E50;
+    background: none;
     padding-left: 40px;
     font-size: 25px;
     position: relative;
     display: inline-block;
 }
-
 .special-head:before {
     content: '';
     background: #fff;
@@ -1682,6 +1682,7 @@ nav {
     font-weight: 900;
     margin-bottom: 20px;
     letter-spacing: 3px;
+    background: none!important;
     /* max-inline-size: 15ch; */
 }
 
@@ -1704,6 +1705,7 @@ nav {
     font-size: 25px;
     color: #fff;
     margin-bottom: 30px;
+    background: none!important;
 }
 
 .character-features {
