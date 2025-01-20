@@ -6794,3 +6794,11 @@ body.light-version {
     border: 5px solid #fff;
 }
 
+
+
+img.kick {
+    position: absolute;
+    top: -7%;
+    right: -56%;
+}
+
